@@ -1,0 +1,66 @@
+carte mère : MSI B760M GAMING PLUS WIFI Carte Mère Micro-ATX, LGA 1700
+
+https://www.amazon.fr/MSI-B760M-Gaming-Plus-Carte/dp/B0CN3P4YXB/ref=asc_df_B0CN3P4YXB?mcid=18080643f1a43fae8d57bcc0402c37e9&tag=googshopfr-21&linkCode=df0&hvadid=701511851270&hvpos=&hvnetw=g&hvrand=15863470651118713611&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9055000&hvtargid=pla-2272860707180&psc=1&hvocijid=15863470651118713611-B0CN3P4YXB-&hvexpln=0
+
+117 euros
+
+support de ram DDR5 jusqu'à 4 slot, parfait pour de la simulation, qui demande beaucoup de mémoire vive. cette carte supporte aussi les dernières génération de processeurs intel, ce qui est parfait pour notre processeur.
+--------------------------------------------------------
+
+processeur : Intel Core i7-14700F
+
+https://www.materiel.net/produit/202312050182.html
+
+389 euros
+
+une grosse partie du budget est alloué ici, car avec le processeur et la carte graphique sont un duo essentiel afin de profiter d'une expérience fluide et agréable. avec ses 20 cœurs, le processeur va être capable de gérer de multiples tâches à la fois.
+--------------------------------------------------------
+
+ram : Kingston FURY Beast Blanc RGB 32Go 5600MT/s DDR5
+
+
+https://www.amazon.fr/dp/B0BZJCFS45?tag=lechoixgagnanom-222182893-21&linkCode=osi&th=1&psc=1&language=fr_FR&ascsubtag=21656680996
+
+145 euros.
+
+un minimum de mémoire vive est requise afin de gérer correctement de la simulation. avec 32go de ram, on garanti un minimum de fluidité et de confort.
+--------------------------------------------------------
+
+carte graphique : ASUS GeForce RTX 5060 Dual OC
+
+https://www.idealo.fr/prix/206513014/asus-geforce-rtx-5060-dual-oc.html
+
+500 euros
+
+la carte graphique est essentiel pour de la simulation ; elle permet la génération et le rendu d'image 3D. ici, une grosse carte graphique est donc nécessaire accompagné de bons composants à côté pour harmoniser et fluidifié le plus possible le tout.
+--------------------------------------------------------
+
+SSD : Kingston NV3 - 500 GO
+
+https://www.ldlc.com/fiche/PB00630080.html
+
+130 euros
+
+un bon SSD de 500 GO qui lit rapidement les données afin de lancer l'os ainsi que les apps plus rapidement.
+--------------------------------------------------------
+
+alimentation : Corsair RM850e (2025)
+
+https://www.ldlc.com/fiche/PB00663406.html
+
+134 euros
+
+une bonne alimentation est non négociable pour que tous les composants fonctionne correctement et sans bride. 850watts semblent donc cohérent pour notre configuration.
+--------------------------------------------------------
+
+boitier : Corsair 3200D RS (Noir)
+
+https://www.ldlc.com/fiche/PB00736629.html
+
+89 euros
+
+un bon boîtier avec refroidissement et une bonne maitrise des températures.
+
+
+TOTAL : 1504 euros
+

@@ -1,0 +1,85 @@
+carte mère : Carte mère MSI PRO B760-P WIFI DDR4 ATX Socket LGA1700 Chipset Intel B760
+
+https://www.ldlc.com/fiche/PB00718916.html?gad_source=1&gad_campaignid=23500164385&gbraid=0AAAABClChtYjtmhh0COPXX1uVUoVA5R6j&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhPua7iw_igr1Bi9NA93HR3IWrKZbqX1BXsSdyU3ciu1U26MKNfG1-hoCWf0QAvD_BwE
+
+161 euros
+
+on cherche à monter un PC dont le but est d'être fluide sur des tâches bureautique. pour aller avec un budget limité, on avait besoin d'une carte mère supportant de la ddr4 et compatible avec notre processeur.
+--------------------------------------------------------
+
+processeur : Intel Core i3-13100F (3.4 GHz / 4.5 GHz) - Version tray
+
+https://www.ldlc.com/fiche/PB00718916.html?gad_source=1&gad_campaignid=23500164385&gbraid=0AAAABClChtYjtmhh0COPXX1uVUoVA5R6j&gclid=CjwKCAjwl4HXBhAjEiwAHlpWhPua7iw_igr1Bi9NA93HR3IWrKZbqX1BXsSdyU3ciu1U26MKNfG1-hoCWf0QAvD_BwE
+
+100 euros
+
+ici, on sacrifie une possible carte graphique (pas d'utilité pour de la bureautique) afin de consacrer plus de budget à un processeur quad core, permettant plus de possibilités multitâches.
+
+sources : https://www.inmac-wstore.com/guides-achat-ordinateur-quel-processeur-pour-pc-bureau/cp38156.htm
+
+--------------------------------------------------------
+
+ram : G.Skill Aegis 8 Go DDR4-3200 (1x 8 Go) mémoire vive
+
+https://www.alternate.fr/G-Skill/Aegis-8-Go-DDR4-3200-1x-8-Go-m%C3%A9moire-vive/html/product/1584009?partner=FrIdealo&campaign=DDR4/G.Skill/1584009
+
+140 euros euros
+
+Prendre 2 fois 8 GO de ram, avec une fréquence de 3200mhz pour plus de rapidité et maintenir plusieurs logiciels actif à la fois.
+--------------------------------------------------------
+
+disque dur : Samsung SSD 870 EVO
+ 
+https://www.amazon.fr/dp/B08PC43D78/?th=1&psc=1&linkCode=osi&tag=mel-0220-21&ascsubtag=1cd36bc3-2edc-41a1-b7cb-9bf615aa3fa0
+
+102 euros
+
+disque dur fiable et rapide, toujours essentiel pour du multitâches.
+--------------------------------------------------------
+
+alimentation : Corsair CX550 80PLUS Bronze (2023)
+
+https://www.ldlc.com/fiche/PB00580848.html
+
+60euros
+
+alimentation qui couvre largement nos composants.
+--------------------------------------------------------
+
+Boitier : Endorfy Armis 100 Solid
+
+https://www.idealo.fr/prix/204980529/endorfy-armis-100-solid.html?gclid=CjwKCAjwl4HXBhAjEiwAHlpWhGahhcQqxo5Zwff3pdStcZagiDBE9Ivq5ZRsYjZi4OQnL6uxzNXZyBoCiZcQAvD_BwE&utm_campaign=SEM-FR-WEB-CVR-SHOPPING-23467332473&utm_medium=cpc&utm_source=google
+
+34 euros
+
+boîtier simple avec ventilations intégré, permettant des performances plus stables et une espérance de vie de la config prolongé.
+--------------------------------------------------------
+
+écran : Acer EK241YGbif
+
+https://www.amazon.fr/acer-EK241YGbif-AdaptiveSync-BlueLightShield-Flicker-Less/dp/B0DM679R7F/ref=sr_1_8?adgrpid=1350202860375426&dib=eyJ2IjoiMSJ9.--Vsn_r31HOdvW5z-NXhRwlI1Wx7IS545GuMf87hBaMdYfLNl4QqrAfX_z61KcsAfwrxRE3i9kyrgDh4pafaC_qXM4N8rRylXctRuS1vL6zt1iTXEPRe96qQm95pywDsJm8CbF7sDCFCzMkVWmBHqIB6r0TnJX98YBQbz4AM2CY_dYv-gDI43Acff8rVssRTIdQRS0UVoXi4r4hqQStbIsd4FHTdhDIYc5sq-gYeY3BCbvKu2ZW6XLKWR_ADZ1Au8SEMZy8LiMPXAVCYZpUtj1UY8JZpxAUxtIqAyRdN_7o.ISpi8qM1VVoEDQCl3GeCh3AwbQzzpeFf6QnN5Fp5M4o&dib_tag=se&hvadid=84388111217237&hvbmt=be&hvdev=c&hvlocphy=126412&hvnetw=o&hvqmt=e&hvtargid=kwd-84388870706535%3Aloc-66&hydadcr=8817_2389069&keywords=%C3%A9cran%2Bd%27ordinateur%2Bde%2Bbureau&mcid=f341bd9135b83684b238a817d86b41be&msclkid=39c8e7b1fc1713b68cda8d51825e0ddd&qid=1793097300&sr=8-8&th=1
+
+70 euros
+
+choix confortable pour peu cher, largement suffisant pour de la bureautique.
+--------------------------------------------------------
+
+clavier : Cherry Stream Keyboard TKL - Noir
+
+15 euros
+
+https://www.materiel.net/produit/202204040061.html
+--------------------------------------------------------
+
+souris : INOVU FM 1200 - Noir
+
+8 euros
+
+https://www.materiel.net/produit/202603250101.html
+--------------------------------------------------------
+
+
+TOTAL : 619 euros
+
+
+
